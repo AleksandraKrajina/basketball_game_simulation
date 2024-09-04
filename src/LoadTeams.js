@@ -101,7 +101,7 @@ function processGroups(GroupA, GroupB, GroupC) {
          console.log("Sesiri: ");  
         //Ispis sesira
         const sortedHat = sortPlacment(hat);
-        console.log(sortedHat);
+        //console.log(sortedHat);
 
           HatD = sortedHat[0] + " i " + sortedHat[1];
           HatE = sortedHat[2] + " i " + sortedHat[3];
