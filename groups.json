@@ -1,0 +1,141 @@
+{
+    "A": [
+      {
+        "Team": "Kanada",
+        "ISOCode": "CAN",
+        "FIBARanking": 7,
+        "points":0,
+        "wins": 0,
+        "losses":0,
+        "basketScored":0,
+        "basketObtained": 0,
+        "basketDifference":0
+
+      },
+      {
+        "Team": "Australija",
+        "ISOCode": "AUS",
+        "FIBARanking": 5,
+        "points":0,
+        "wins": 0,
+        "losses":0,
+        "basketScored":0,
+        "basketObtained": 0,
+        "basketDifference":0
+      },
+      {
+        "Team": "Grčka",
+        "ISOCode": "GRE",
+        "FIBARanking": 14,
+        "points":0,
+        "wins": 0,
+        "losses":0,
+        "basketScored":0,
+        "basketObtained": 0,
+        "basketDifference":0
+      },
+      {
+        "Team": "Španija",
+        "ISOCode": "ESP",
+        "FIBARanking": 2,
+        "points":0,
+        "wins": 0,
+        "losses":0,
+        "basketScored":0,
+        "basketObtained": 0,
+        "basketDifference":0
+      }
+    ],
+    "B": [
+      {
+        "Team": "Nemačka",
+        "ISOCode": "GER",
+        "FIBARanking": 3,
+        "points":0,
+        "wins": 0,
+        "losses":0,
+        "basketScored":0,
+        "basketObtained": 0,
+        "basketDifference":0
+      },
+      {
+        "Team": "Francuska",
+        "ISOCode": "FRA",
+        "FIBARanking": 9,
+        "points":0,
+        "wins": 0,
+        "losses":0,
+        "basketScored":0,
+        "basketObtained": 0,
+        "basketDifference":0
+      },
+      {
+        "Team": "Brazil",
+        "ISOCode": "BRA",
+        "FIBARanking": 12,
+        "points":0,
+        "wins": 0,
+        "losses":0,
+        "basketScored":0,
+        "basketObtained": 0,
+        "basketDifference":0
+      },
+      {
+        "Team": "Japan",
+        "ISOCode": "JPN",
+        "FIBARanking": 26,
+        "points":0,
+        "wins": 0,
+        "losses":0,
+        "basketScored":0,
+        "basketObtained": 0,
+        "basketDifference":0
+      }
+    ],
+    "C": [
+      {
+        "Team": "Sjedinjene Države",
+        "ISOCode": "USA",
+        "FIBARanking": 1,
+        "points":0,
+        "wins": 0,
+        "losses":0,
+        "basketScored":0,
+        "basketObtained": 0,
+        "basketDifference":0
+      },
+      {
+        "Team": "Srbija",
+        "ISOCode": "SRB",
+        "FIBARanking": 4,
+        "points":0,
+        "wins": 0,
+        "losses":0,
+        "basketScored":0,
+        "basketObtained": 0,
+        "basketDifference":0
+      },
+      {
+        "Team": "Južni Sudan",
+        "ISOCode": "SSD",
+        "FIBARanking": 34,
+        "points":0,
+        "wins": 0,
+        "losses":0,
+        "basketScored":0,
+        "basketObtained": 0,
+        "basketDifference":0
+      },
+      {
+        "Team": "Puerto Riko",
+        "ISOCode": "PRI",
+        "FIBARanking": 16,
+        "points":0,
+        "wins": 0,
+        "losses":0,
+        "basketScored":0,
+        "basketObtained": 0,
+        "basketDifference":0
+      }
+    ]
+  }
